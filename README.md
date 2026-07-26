@@ -52,10 +52,6 @@ This repository contains the complete hardware design for this PCB project, deve
 4. Generate updated manufacturing outputs if modifications are made.
 5. Use the provided Gerber, drill, BOM, and Pick-and-Place files for PCB fabrication and assembly.
 
-## Manufacturing
-
-The repository includes all files required for PCB production and assembly. Most PCB manufacturers, including JLCPCB, PCBWay, OSH Park, and similar services, accept the provided Gerber and drill files directly. For assembled boards, upload the accompanying BOM and Pick-and-Place files during the assembly process.
-
 ## Contributing
 
 Contributions are welcome. If you identify an issue or have suggestions for improvements, feel free to open an issue or submit a pull request. Please ensure that any changes are verified using KiCad's Electrical Rules Check (ERC) and Design Rules Check (DRC) before submission.
