@@ -1,4 +1,4 @@
-# ArduinoMega_2560 PCB Design Project
+# ArduinoMega_2560 PCB Design 
 
 ## Overview
 
